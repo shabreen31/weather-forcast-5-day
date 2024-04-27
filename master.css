@@ -1,0 +1,35 @@
+
+body {
+    background-color: #d7d7d7;
+    color: black;
+    background-image: url("./cloud-5946381.jpg");
+    background-size: cover;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(182, 202, 219);
+}
+
+
+header {
+    color: rgb(9, 48, 90);
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer {
+    
+    text-shadow: 0.125pc 0.125pc 0.625pc black;
+    color: #becbff;
+}
+
+#responseContainer {
+    display: flex;
+    justify-content:center;/* Distribute space between elements */
+  }
+  
+  
+
+  #responseContainer > div {
+  }
